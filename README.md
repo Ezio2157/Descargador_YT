@@ -1,5 +1,5 @@
 # **📥 YouTube Downloader 🎥**
-Descarga fácilmente videos o audios de YouTube con una interfaz gráfica simple y elegante.  
+Descarga fácilmente videos o audios de YouTube con una interfaz gráfica simple.  
 
 ✅ **Descarga videos en la mejor calidad disponible**  
 ✅ **Descarga solo el audio en formato MP3**  
@@ -36,7 +36,7 @@ python youtube_downloader.py
 ```
 👀 Se abrirá una ventana donde podrás pegar la URL del video, seleccionar una carpeta y elegir entre:  
 - **📹 Descargar Video**
-- **🎵 Descargar Audio (MP3)**
+- **🎵 Descargar Audio**
 
 ---
 
@@ -45,8 +45,8 @@ python youtube_downloader.py
 - Obtiene automáticamente la mejor calidad disponible.
 - Guarda el archivo en la carpeta seleccionada.
 
-### **🎵 Descargar Solo Audio (MP3)**
-- Descarga solo el audio y lo guarda en **formato MP3**.
+### **🎵 Descargar Solo Audio**
+- Descarga solo el audio.
 - No requiere `ffmpeg`, todo se maneja con `yt-dlp`.
 
 ### **📊 Barra de Progreso**
